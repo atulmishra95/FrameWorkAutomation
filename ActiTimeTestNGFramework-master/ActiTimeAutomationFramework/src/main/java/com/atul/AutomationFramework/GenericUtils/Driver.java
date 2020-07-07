@@ -1,4 +1,4 @@
-package com.nilava.AutomationFramework.GenericUtils;
+package com.atul.AutomationFramework.GenericUtils;
 
 /**
  * @author nilava

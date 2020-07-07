@@ -1,4 +1,4 @@
-package com.nilava.AutomationFramework.POM;
+package com.atul.AutomationFramework.POM;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
-import com.nilava.AutomationFramework.GenericUtils.Driver;
+import com.atul.AutomationFramework.GenericUtils.Driver;
 
 /**
  * @author nilava

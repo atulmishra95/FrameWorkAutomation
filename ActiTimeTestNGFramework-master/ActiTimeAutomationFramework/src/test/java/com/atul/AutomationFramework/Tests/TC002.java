@@ -1,4 +1,4 @@
-package com.nilava.AutomationFramework.Tests;
+package com.atul.AutomationFramework.Tests;
 
 
 import org.testng.annotations.AfterClass;

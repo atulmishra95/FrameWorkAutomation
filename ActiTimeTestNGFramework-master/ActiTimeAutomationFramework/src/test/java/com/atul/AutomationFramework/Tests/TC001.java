@@ -1,4 +1,4 @@
-package com.nilava.AutomationFramework.Tests;
+package com.atul.AutomationFramework.Tests;
 
 /**
  * * @author nilava
@@ -13,9 +13,10 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
-import com.nilava.AutomationFramework.GenericUtils.Driver;
-import com.nilava.AutomationFramework.GenericUtils.ReusableMethods;
-import com.nilava.AutomationFramework.POM.LoginPage;
+
+import com.atul.AutomationFramework.GenericUtils.Driver;
+import com.atul.AutomationFramework.GenericUtils.ReusableMethods;
+import com.atul.AutomationFramework.POM.LoginPage;
 
 public class TC001 {
 

@@ -1,6 +1,6 @@
-package com.nilava.AutomationFramework;
+package com.atul.AutomationFramework;
 
-import com.nilava.AutomationFramework.GenericUtils.Driver;
+import com.atul.AutomationFramework.GenericUtils.Driver;
 
 public class Testing {
 
